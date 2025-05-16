@@ -10,7 +10,6 @@ El **matcha** es una variante de origen asiático del té verde, caracterizada p
 * Adopción en el mercado: cafeterías y comercios relacionadas.
 
 ### 🍃 Fuentes
-Acá en está la información a los mencionado anteriormente:
 
 * [Ingresos mercado global](https://www.grandviewresearch.com/industry-analysis/matcha-market)
 * [Producción Matcha en Japón](https://www.theguardian.com/food/2025/apr/05/skyrocketing-demand-for-matcha-raises-fears-of-shortage-in-japan?utm_source=chatgpt.com)
