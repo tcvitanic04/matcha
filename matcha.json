@@ -1,0 +1,72 @@
+{
+    "Matcha_Market_Data": [
+        {
+            "Métrica": "Tamaño del Mercado",
+            "2018": "2,20 (estimado)",
+            "2021": "2.73",
+            "2022": "2.43",
+            "2023": "2.86",
+            "2024": "3.65",
+            "2028": "4.69",
+            "2030": "6.19",
+            "2032": "7.83",
+            "2033": "8.11"
+        },
+        {
+            "Métrica": "% CAGR",
+            "2018": "5.45% (2018-2023)",
+            "2021": "9.54% (2022-2030)",
+            "2022": "9.9% (2023-2033)",
+            "2023": "7.00% (2024-2032)",
+            "2024": "10.02% (2025-2032)",
+            "2028": "10.39% (2023-2028)",
+            "2030": "7.9% (2024-2030)",
+            "2032": "11.56% (2028-2033)",
+            "2033": "-"
+        }
+    ],
+    "Matcha_Social_Media_Data": [
+        {
+            "Hashtag": "#matchalatte",
+            "Publicaciones Totales (Millones)": "2025-09-01",
+            "Publicaciones Diarias": 1100,
+            "Promedio de Likes (Miles)": "1",
+            "Promedio de Comentarios": 105
+        },
+        {
+            "Hashtag": "#matchalover",
+            "Publicaciones Totales (Millones)": "2025-03-01",
+            "Publicaciones Diarias": 814,
+            "Promedio de Likes (Miles)": "2",
+            "Promedio de Comentarios": 26
+        },
+        {
+            "Hashtag": "#抹茶",
+            "Publicaciones Totales (Millones)": "2025-07-04",
+            "Publicaciones Diarias": 549,
+            "Promedio de Likes (Miles)": "1",
+            "Promedio de Comentarios": 11
+        },
+        {
+            "Hashtag": "#matchatea",
+            "Publicaciones Totales (Millones)": "                     0.6",
+            "Publicaciones Diarias": 179,
+            "Promedio de Likes (Miles)": "1",
+            "Promedio de Comentarios": 26
+        },
+        {
+            "Hashtag": "#matchagreentea",
+            "Publicaciones Totales (Millones)": "0.5",
+            "Publicaciones Diarias": 105,
+            "Promedio de Likes (Miles)": "2025-01-02",
+            "Promedio de Comentarios": 19
+        },
+        {
+            "Hashtag": "#matchalove",
+            "Publicaciones Totales (Millones)": "0.3",
+            "Publicaciones Diarias": 215,
+            "Promedio de Likes (Miles)": "2025-07-02",
+            "Promedio de Comentarios": 38
+        }
+    ]
+}
