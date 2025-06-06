@@ -19,21 +19,24 @@ El **matcha** es una variante de origen asiático del té verde, caracterizada p
 
 ### Tabla de Antecedentes y Referentes
 
+
+
 ## Antecedentes
 
 | Imagen | Descripción | Fuente | Aspectos Positivos | Aspectos Negativos |
 |--------|-------------|--------|--------------------|--------------------|
-| ![Reuters Yen](https://www.reuters.com/graphics/JAPAN-YEN/EXPLAINER/xmvjnxjmbvr/) | Visualización del crecimiento del mercado del matcha en Japón, comparado con el café. | [Reuters](https://www.reuters.com/graphics/JAPAN-YEN/EXPLAINER/xmvjnxjmbvr/) | Contextualiza el crecimiento del matcha en Japón y permite comparaciones con otros mercados. | No se identifican desventajas significativas. |
-| ![The Guardian Subaquatic](https://interactive.guim.co.uk/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack/thumbnail.png) | Mapa interactivo que muestra rutas de exportación, útil para visualizar el viaje del matcha al mundo. | [The Guardian](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack) | Permite visualizar rutas de exportación de manera detallada. | La complejidad del gráfico puede dificultar el seguimiento de múltiples líneas. |
-| ![Bloomberg Bubble Chart](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTgNk9w1xFp0/v0/1200x800.png) | Gráfico de burbujas que representa distintos hashtags según su frecuencia de uso. | [Bloomberg](https://www.bloomberg.com/graphics/2025-cancer-treatment-costs/) | Visualización clara y atractiva de la popularidad de hashtags. | Requiere adaptación para aplicarse al contexto del matcha. |
+|        | Visualización del crecimiento del mercado del matcha en Japón, comparado con el café. | [Reuters](https://www.reuters.com/graphics/JAPAN-YEN/EXPLAINER/xmvjnxjmbvr/) | Contextualiza el crecimiento del matcha en Japón y permite comparaciones con otros mercados. | No se identifican desventajas significativas. |
+|        | Mapa interactivo que muestra rutas de exportación, útil para visualizar el viaje del matcha al mundo. | [The Guardian](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack) | Permite visualizar rutas de exportación de manera detallada. | La complejidad del gráfico puede dificultar el seguimiento de múltiples líneas. |
+|        | Gráfico de burbujas que representa distintos hashtags según su frecuencia de uso. | [Bloomberg](https://www.bloomberg.com/graphics/2025-cancer-treatment-costs/) | Visualización clara y atractiva de la popularidad de hashtags. | Requiere adaptación para aplicarse al contexto del matcha. |
+## Referentes
 
 ## Referentes
 
 | Imagen | Descripción | Fuente | Aspectos Positivos | Aspectos Negativos |
 |--------|-------------|--------|--------------------|--------------------|
-| ![Kikin Visual Style](https://www.kikin.io/favicon.ico) | Sitio web con un estilo visual distintivo que puede servir de inspiración para el diseño. | [Kikin](https://www.kikin.io/) | Ofrece un estilo visual único y atractivo. | No se identifican desventajas significativas. |
-| ![A24 Navigation](https://a24films.com/favicon.ico) | Ejemplo de organización y navegación efectiva en un sitio web. | [A24](https://a24films.com/) | Navegación intuitiva y bien estructurada. | No se identifican desventajas significativas. |
-| ![Studio Dumbar](https://studiodumbar.com/favicon.ico) | Referente en diseño gráfico con ejemplos aplicables a la visualización de datos. | [Studio Dumbar](https://studiodumbar.com/work) | Diseños innovadores y creativos que pueden inspirar visualizaciones de datos. | Requiere adaptación para aplicarse al contexto específico del matcha. |
+|        | Sitio web con un estilo visual distintivo que puede servir de inspiración para el diseño. | [Kikin](https://www.kikin.io/) | Ofrece un estilo visual único y atractivo. | No se identifican desventajas significativas. |
+|        | Ejemplo de organización y navegación efectiva en un sitio web. | [A24](https://a24films.com/) | Navegación intuitiva y bien estructurada. | No se identifican desventajas significativas. |
+|        | Referente en diseño gráfico con ejemplos aplicables a la visualización de datos. | [Studio Dumbar](https://studiodumbar.com/work) | Diseños innovadores y creativos que pueden inspirar visualizaciones de datos. | Requiere adaptación para aplicarse al contexto específico del matcha. |
 
 
 
