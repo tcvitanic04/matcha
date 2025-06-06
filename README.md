@@ -22,11 +22,11 @@ El **matcha** es una variante de origen asiático del té verde, caracterizada p
 
 | Tipo         | Descripción | Fuente | Aspectos Positivos | Aspectos Negativos |
 |--------------|-------------|--------|--------------------|--------------------|
-| Antecedente  | Visualización del crecimiento del mercado del matcha en Japón, comparado con el café. | [Reuters](https://www.reuters.com/graphics/JAPAN-YEN/EXPLAINER/xmvjnxjmbvr/) | Contextualiza el crecimiento del matcha en Japón y permite comparaciones con otros mercados. | No se identifican desventajas significativas. |
+| Antecedente  | Visualización del crecimiento del mercado del matcha en Japón, comparado con el café. | [Reuters](https://www.reuters.com/graphics/JAPAN-YEN/EXPLAINER/xmvjnxjmbvr/) | Contextualiza el crecimiento del matcha en Japón y permite comparaciones con otros mercados. | Puede resultar muy específico y poco adaptable a otros contextos visuales. |
 | Antecedente  | Mapa interactivo que muestra rutas de exportación, útil para visualizar el viaje del matcha al mundo. | [The Guardian](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack) | Permite visualizar rutas de exportación de manera detallada. | La complejidad del gráfico puede dificultar el seguimiento de múltiples líneas. |
-| Antecedente  | Gráfico de burbujas que representa distintos hashtags según su frecuencia de uso. | [Bloomberg](https://www.bloomberg.com/graphics/2025-cancer-treatment-costs/) | Visualización clara y atractiva de la popularidad de hashtags. | Requiere adaptación para aplicarse al contexto del matcha. |
-| Referente    | Sitio web con un estilo visual distintivo que puede servir de inspiración para el diseño. | [Kikin](https://www.kikin.io/) | Ofrece un estilo visual único y atractivo. | No se identifican desventajas significativas. |
-| Referente    | Ejemplo de organización y navegación efectiva en un sitio web. | [A24](https://a24films.com/) | Navegación intuitiva y bien estructurada. | No se identifican desventajas significativas. |
+| Antecedente  | Gráfico de burbujas que representa distintos hashtags según su frecuencia de uso. | [Bloomberg](https://www.bloomberg.com/graphics/2025-cancer-treatment-costs/) | Visualización clara y atractiva de la popularidad de hashtags. | Puede ser visualmente saturado si se usan demasiadas categorías. |
+| Referente    | Sitio web con un estilo visual distintivo que puede servir de inspiración para el diseño. | [Kikin](https://www.kikin.io/) | Ofrece un estilo visual único y atractivo. | Puede resultar muy plano y no conectar con el dinamismo que requiere el contenido. |
+| Referente    | Ejemplo de organización y navegación efectiva en un sitio web. | [A24](https://a24films.com/) | Navegación intuitiva y bien estructurada. | Su estructura minimalista puede no ofrecer suficiente jerarquía visual para datos complejos. |
 
 
   
