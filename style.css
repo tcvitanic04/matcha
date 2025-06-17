@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+  --colorTexto: #132615;           
+  --colorOrganizador: #029a57;     
+  --colorTonico: #c0d72f;          
+  --colorFondo: #deefe9;          
+}
+
+
+[data-theme="dark"] {
+  --colorFondo: #132615;
+  --colorTexto: #deefe9;
+ 
+}
+
+body {
+  margin: 0;
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  background-color: var(--colorFondo);
+  color: var(--colorTexto);
+
+}
+
+
+#navegacion {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: var(--colorOrganizador);
+  z-index: 1000;
+  padding: 1rem 0;
+}
+
+#navegacion ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+#navegacion a {
+  text-decoration: none;
+  color: var(--colorFondo);
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+#navegacion a:hover {
+  color: var(--colorTonico);
+}
+
+
+section {
+  padding: 6rem 2rem 4rem; 
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+
+h1, h2 {
+  color: var(--colorOrganizador);
+  margin-bottom: 1rem;
+}
+
+
+p {
+
+  color: var(--colorTexto);
+  padding: 1rem;
+  border-radius: 5px;
+
+}
+
+section#video img {
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+  margin: 0 auto;
+  display: block;
+
+
+}
+
+section#video img:hover {
+  transform: scale(1.03);
+  cursor: pointer;
+}
+
+
+#grafico-mercado div,
+#grafico-burbujas div {
+  margin-top: 2rem;
+  border-radius: 8px;
+  padding: 1rem;
+
+}
+
+
+svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+section#cierre {
+ 
+  color: var(--colorTexto);
+}
+
+
+.destacado {
+  color: var(--colorTonico);
+  font-weight: bold;
+}
+
