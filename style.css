@@ -144,3 +144,26 @@ section#cierre {
   font-weight: bold;
 }
 
+.tabla-scroll {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  background: var(--colorFondo);
+  color: #132615;
+}
+
+th, td {
+  border: 1px solid #029a57;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: var(--colorFondo);
+  color: #029a57;
+}
