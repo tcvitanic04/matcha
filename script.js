@@ -28,7 +28,6 @@ async function cargarDatosMatcha() {
     }
 
     crearGraficoLineal(años, valores);
-
   } catch (error) {
     console.error("Error al cargar datos:", error);
     filas.innerHTML = `<tr><td colspan="4">No se pudo cargar la información.</td></tr>`;
@@ -53,14 +52,9 @@ function carita(valor) {
 
 function crearGraficoLineal(años, valores) {
   const canvas = document.getElementById('lineChart');
-  if (!canvas) {
-    console.warn("No se encontró el canvas #lineChart.");
-    return;
-  }
+  if (!canvas) return;
 
   const ctx = canvas.getContext('2d');
-
-  
   const computedStyle = getComputedStyle(document.body);
   const textoColor = computedStyle.getPropertyValue('--colorTexto') || '#132615';
 
@@ -108,9 +102,7 @@ function crearGraficoLineal(años, valores) {
           beginAtZero: true,
           ticks: {
             color: textoColor,
-            callback: function(value) {
-              return value + ' B';
-            }
+            callback: value => value + ' B'
           },
           grid: {
             color: 'rgba(0, 0, 0, 0.1)'
@@ -126,9 +118,7 @@ function crearGraficoLineal(años, valores) {
         },
         tooltip: {
           callbacks: {
-            label: function(context) {
-              return context.dataset.label + ': ' + context.parsed.y.toFixed(2) + ' B USD';
-            }
+            label: context => context.dataset.label + ': ' + context.parsed.y.toFixed(2) + ' B USD'
           }
         }
       }
@@ -138,21 +128,16 @@ function crearGraficoLineal(años, valores) {
 
 window.addEventListener("load", async () => {
   const loader = document.getElementById("loader");
-
-  
   await new Promise(resolve => setTimeout(resolve, 2000));
-
   loader.classList.add("hidden");
   cargarDatosMatcha();
 
-  
   const navLinks = document.querySelectorAll('#navegacion a');
   navLinks.forEach(link => {
     link.addEventListener('click', function(e) {
       e.preventDefault();
       const targetId = this.getAttribute('href');
       const targetSection = document.querySelector(targetId);
-
       if (targetSection && horizontalScrollWrapper) {
         const scrollPosition = targetSection.offsetLeft;
         horizontalScrollWrapper.scrollTo({
